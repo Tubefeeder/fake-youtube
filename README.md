@@ -1,3 +1,5 @@
+This is archived as it is no longer needed since Tubefeeder changed to rusty_pipe (similar to NewPipeExtractor) to generate videos.
+
 # Fake-Youtube
 
 Fake the youtube feed-service locally.
